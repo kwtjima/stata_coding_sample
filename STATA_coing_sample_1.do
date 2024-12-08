@@ -1,6 +1,6 @@
-								/********************
+		/********************
 		
-									CODE OVERVIEW
+		CODE OVERVIEW
 		
 		This do.file prepares and analyzes the student test and teacher experience
 		data from the 2005-2007 Western Kenya School Tracking RCT to estimate the
@@ -10,20 +10,20 @@
 		Code uses the following packages:
 		> estout (run 'ssc install estout' if needed)
 		
-								********************
+		********************
 		
-										DATA
+		DATA
 		> student_test_data.csv :: contains student characteristics and test results
 		> teacher_data.dta :: contains teacher's teaching experience
 		
-								********************
-		
-									CODE SECTIONS
+		********************
+			
+		CODE SECTIONS
 		
 		1. Directory, Paths, and Seed Set Up (user-specific, needs to be changed)
 		2. Data Preparation
 		3. Analysis
-								********************/
+		********************/
 							 
 							 
 							 
